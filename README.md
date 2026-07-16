@@ -20,9 +20,9 @@ Computer Scientist at **Seneca Polytechnic** (BCMS, expected 2027), focused on *
 | Project | Summary |
 |---|---|
 | [credit-risk-classification](https://github.com/Faraz-Tab/credit-risk-classification) | Supervised ML classifying loan risk on imbalanced data |
-| [CryptoClustering](https://github.com/Faraz-Tab/CryptoClustering) | K-means clustering and PCA on cryptocurrency market data |
-| [Crowdfunding_ETL](https://github.com/Faraz-Tab/Crowdfunding_ETL) | ETL pipeline transforming raw crowdfunding data into PostgreSQL |
-| [ML_Final_Project](https://github.com/Faraz-Tab/ML_Final_Project) | Diabetes prediction — Random Forest & deep neural network with Flask deployment |
+| [crypto-clustering](https://github.com/Faraz-Tab/crypto-clustering) | K-means clustering and PCA on cryptocurrency market data |
+| [crowdfunding-etl](https://github.com/Faraz-Tab/crowdfunding-etl) | ETL pipeline transforming raw crowdfunding data into PostgreSQL |
+| [diabetes-prediction-ml](https://github.com/Faraz-Tab/diabetes-prediction-ml) | Diabetes prediction — Random Forest & deep neural network with Flask deployment |
 
 ### Connect
 
