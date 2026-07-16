@@ -1,6 +1,6 @@
 # Hi, I'm Faraz 👋
 
-Computer Scientist at **Seneca Polytechnic** (BCMS, expected 2027), focused on **data science, analytics, and machine learning**, with a strong foundation in mathematics. Meddling with computer wizardry.
+Computer Scientist at **Seneca Polytechnic** (BCMS, expected 2027), focused on **data science, analytics, and machine learning**, with a strong foundation in mathematics.
 
 - 🎓 University of Toronto **Data Analytics Boot Camp** graduate — certified, 2023
 - 🏎️ **AWS DeepRacer** competitor — trained reinforcement learning models for autonomous racing
